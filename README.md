@@ -1,2 +1,2 @@
 # Lotto
-Lottery game (user interface in finnish)
+Lottery game made with python (user interface in finnish).
